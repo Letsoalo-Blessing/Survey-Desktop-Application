@@ -1,8 +1,10 @@
 # Survey-Desktop-Application
 
-Home Screen
+
+
+# Home Screen
 ![](src/Screens/home%20screen.PNG)
 
 
-Survey Screen
+# Survey Screen
 ![](src/Screens/survey%20screen.PNG)
